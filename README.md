@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<img src="https://drive.google.com/file/d/1Nh_7mKYuO3_ne54c2jnV_8hAhF5UTo8j/view?usp=drive_link" width="100%" alt="Profile Banner"/>
+<img src="./assets/github-banner.svg" width="100%" alt="Profile Banner"/>
 
 </div>
 
