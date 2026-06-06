@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:001F3F,100:00B4FF&height=220&section=header&text=ACHMAD%20NURS%20S.%20A.&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20RAG%20%26%20LLM%20Application%20Systems&descAlignY=58&descSize=16&descColor=00B4FF&animation=fadeIn" width="100%" alt="Profile Banner"/>
+<img src="https://drive.google.com/file/d/1Nh_7mKYuO3_ne54c2jnV_8hAhF5UTo8j/view?usp=drive_link" width="100%" alt="Profile Banner"/>
 
 </div>
 
