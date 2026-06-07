@@ -9,25 +9,7 @@
 -->
 
 <!-- ═══════════════════════════════════════════════════════════
-     SECTION 1 · HEADER BANNER
-     
-     BANNER GENERATION PROMPT (Midjourney / DALL·E / Canva):
-     ─────────────────────────────────────────────────────────
-     "Ultra-wide cinematic banner 1500x500px, hyper-minimalist
-     cyberpunk aesthetic. Deep matte black (#0A0A0F) background.
-     Fine electric-blue (#00B4FF) glowing circuit-board traces
-     spreading from left edge like data veins. Center-right: a
-     pulsing neural-network node cluster rendered in neon blue
-     wireframe with soft gaussian glow. Bottom-left: faint binary
-     streams falling vertically, opacity 12%.
-     TOP-CENTER TEXT: 'ACHMAD NURS S. A.' sharp futuristic
-     sans-serif, white, letter-spacing 0.5em.
-     Below: 'AI ENGINEER · RAG & LLM APPLICATION SYSTEMS'
-     in electric blue (#00B4FF), tracking wide.
-     Pure noir + neon. 4K sharp render, no blur, no gradients."
-     
-     Or use: https://capsule-render.vercel.app (already set below)
-     Or a dark neural GIF from your own assets.
+     SECTION 1 · HEADER BANNER    
 ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -448,7 +430,7 @@ GPA: **3.87 / 4.00**
 <div align="center">
 
 <p>
-  Open to <strong>senior AI engineering roles</strong>, <strong>RAG consulting</strong>, and <strong>LLM system collaborations</strong>.
+  Open to <strong>AI engineering roles</strong>, <strong>Data Scientist</strong>, and <strong>LLM system collaborations</strong>.
 </p>
 
 <a href="mailto:nurssyururi01@gmail.com">
@@ -469,7 +451,7 @@ GPA: **3.87 / 4.00**
 
 <br/><br/>
 
-<!-- Replace YOUR-RESUME-LINK with your actual resume link (Google Drive, etc.) -->
+
 <a href="https://drive.google.com/file/d/1y_eboakFasWkv8MJg8PmPwZ2M8_770x4/view?usp=sharing">
   <img src="https://img.shields.io/badge/Resume-Download_CV-00B4FF?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0A0A0F"/>
 </a>
@@ -486,22 +468,4 @@ GPA: **3.87 / 4.00**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4FF,50:001F3F,100:0A0A0F&height=120&section=footer" width="100%" alt="Footer Wave"/>
 
-<!--
-════════════════════════════════════════════════════════════════════════════════
-  ✅ SETUP CHECKLIST — One remaining placeholder:
-  
-  ☐ Replace 'YOUR-RESUME-LINK' with your actual resume URL (Google Drive, etc.)
-  
-  Everything else is wired to your real data:
-  ✔ GitHub username: achmadarifin31
-  ✔ LinkedIn: achmad-nurs-syururi-arifin
-  ✔ Email: nurssyururi01@gmail.com
-  ✔ WhatsApp: 089637878127
-  ✔ Repo links: DualSynapse/jdih-bp2mi-qdrant-rag, DualSynapse/dms-extraction,
-                 achmadarifin31/Website-Flask-OCEAN-Predictor
-  
-  REMINDER: Create the profile README repo at:
-  github.com/new → name it exactly: achmadarifin31
-  Then commit this file as README.md in that repo.
-════════════════════════════════════════════════════════════════════════════════
--->
+
