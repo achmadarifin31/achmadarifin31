@@ -325,13 +325,13 @@ A multi-modal deep learning system trained on the **ChaLearn LAP dataset** (~10K
 
 <!-- GitHub Stats Card -->
 <img height="175em"
-  src="https://github-readme-stats.vercel.app/api?username=achmadarifin31&show_icons=true&theme=transparent&hide_border=true&title_color=00B4FF&icon_color=00B4FF&text_color=CCDDFF&bg_color=0D1117&rank_icon=github&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=achmadarifin31&show_icons=true&theme=transparent&hide_border=true&title_color=00B4FF&icon_color=00B4FF&text_color=CCDDFF&bg_color=0D1117&rank_icon=github&include_all_commits=true&count_private=true"
   alt="GitHub Stats"
 />
 
 <!-- Top Languages Card -->
 <img height="175em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmadarifin31&layout=compact&theme=transparent&hide_border=true&title_color=00B4FF&text_color=CCDDFF&bg_color=0D1117&langs_count=6"
+  src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=achmadarifin31&layout=compact&theme=transparent&hide_border=true&title_color=00B4FF&text_color=CCDDFF&bg_color=0D1117&langs_count=6"
   alt="Top Languages"
 />
 
