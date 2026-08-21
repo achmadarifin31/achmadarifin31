@@ -57,9 +57,9 @@
 <td>
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║  AI ENGINEER  ·  DATA SCIENTIST  ·  RAG ARCHITECT        ║
-╚══════════════════════════════════════════════════════════╝
+╔════════════════════════════════════╗
+║  AI ENGINEER  ·  DATA SCIENTIST    ║
+╚════════════════════════════════════╝
 ```
 
 I design and ship **production-grade Document Intelligence systems** — the kind that handle real-world PDFs at scale, not toy demos.
