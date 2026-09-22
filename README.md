@@ -60,5 +60,5 @@ Bachelor of Applied Computer — GPA 3.87
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=achmadarifin31&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achmadarifin31&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=achmadarifin31&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=achmadarifin31&layout=compact&hide_border=true)
